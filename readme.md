@@ -4,7 +4,7 @@
 
 Projeto construído de forma complementar ao primeiro exercício da Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://https://siegfrieddrx.github.io/movies)
+[🔗 Clique aqui para acessar](https://https://siegfrieddrx.github.io/My-movies)
 
 ## 🛠 Tecnologicas 
 - HTML
